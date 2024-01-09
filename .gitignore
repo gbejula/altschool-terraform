@@ -1,0 +1,11 @@
+# local .terraform dir
+.terraform/*
+
+# tf state files
+*.tfstate
+*.tfstate.*
+
+# tf variables files
+*.tfvars
+docker-ec2/.terraform/*
+terraform-provider-aws_v5.30.0_x5.exe
